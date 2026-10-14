@@ -1,0 +1,2 @@
+# ClaudeJapanesePracticeApp
+An app
